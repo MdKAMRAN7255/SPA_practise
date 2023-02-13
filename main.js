@@ -26,7 +26,7 @@ function getContent(fragmentId, callback) {
                             <article>
                                 <p>
                                     I've spent over a decade working with teams to ship products that delight users and advance organizations’ goals. 
-                                    <a href="#">Learn More</a>
+                                    <a href="">Learn More</a>
                                 </p>
                             </article>
                         </div>  
@@ -51,7 +51,7 @@ function getContent(fragmentId, callback) {
                                 <p class="sticky p-lg-0 m-lg-0">
                                     Select Work
                                     <span class="hidden-xs hidden-sm d-none d-lg-flex"></span> 
-                                    <a href="#">All work</a>
+                                    <a href="">All work</a>
                                 </p>    
                             </div>
                             <div class="col-11 col-md-11 col-lg-10">
@@ -117,17 +117,17 @@ function getContent(fragmentId, callback) {
                         <div class="row">
                             <div class="col-11 col-lg-2 pt-0 pt-sm-4 px-sm-5 px-lg-3">
                                 <p class="sticky p-lg-0 m-lg-0">
-                                    Select Work
+                                    Select Posts
                                     <span class="hidden-xs hidden-sm d-none d-lg-flex"></span> 
-                                    <a href="#">All Post</a>
+                                    <a href="">All Post</a>
                                 </p>    
                             </div>
                             <div class="col-11 col-md-11 col-lg-10">
                                 <div class="row row-10">
                                     <div class="select-post col-xs-10 col-sm-7 col-md-10 col-lg-8 px-md-5 pt-sm-3 pt-md-4">
                                         <span class="pt-5">
-                                            <span class="d-block mb-3 case-study"> <a class="text-decoration-none text-secondary" href="#">DESIGN</a> </span>
-                                            <h3 class="mb-4"><a href="#">Bicycle are my design inspiration—a Rapha 5×5 talk</a></h3>
+                                            <span class="d-block mb-3 case-study"> <a class="text-decoration-none text-secondary" href="">DESIGN</a> </span>
+                                            <h3 class="mb-4"><a href="">Bicycle are my design inspiration—a Rapha 5×5 talk</a></h3>
                                             <p class="h1">
                                                 I was recently invited to speak at an event called Rapha 5×5: 
                                                 Intervals on Design at Fresh Tilled Soil, a local design consultancy. 
@@ -147,8 +147,8 @@ function getContent(fragmentId, callback) {
                                 <div class="row row-10">
                                     <div class="select-post col-xs-10 col-sm-7 col-md-10 col-lg-8 px-md-5 pt-4">
                                         <span class="pt-5">
-                                            <span class="d-block mb-3 case-study"><a class="text-decoration-none text-secondary" href="#">ADVENTURE</a> </span>
-                                            <h3 class="mb-4"><a href="#">Talking to a giant tanker from a little plastic boat</a></h3>
+                                            <span class="d-block mb-3 case-study"><a class="text-decoration-none text-secondary" href="">ADVENTURE</a> </span>
+                                            <h3 class="mb-4"><a href="">Talking to a giant tanker from a little plastic boat</a></h3>
                                             <p class="h1">
                                                 It’s kayaking season here in New England, and
                                                 as I was returning to the water this year
@@ -170,8 +170,8 @@ function getContent(fragmentId, callback) {
                                 <div class="row row-10">
                                     <div class="select-post col-xs-10 col-sm-7 col-md-10 col-lg-8 px-md-5 pt-4">
                                         <span class="pt-5">
-                                            <span class="d-block mb-3 case-study"><a class="text-decoration-none text-secondary" href="#">DESIGN</a> </span>
-                                            <h3 class="mb-4"><a href="#">Paying homage to (or stealing from) your inspiration</a></h3>                                    <p class="h1">
+                                            <span class="d-block mb-3 case-study"><a class="text-decoration-none text-secondary" href="">DESIGN</a> </span>
+                                            <h3 class="mb-4"><a href="">Paying homage to (or stealing from) your inspiration</a></h3>                                    <p class="h1">
                                                 I had an idea for the new version of my site:
                                                 I was going to illustrate objects using only HTML and CSS 
                                                 ( to show that I know how to do stuff with code), 
@@ -197,12 +197,12 @@ function getContent(fragmentId, callback) {
                         <div class="row py-4">
                             <div class="col-12 col-lg-2">
                                 <p>
-                                    <a href="#">Alex Turnwall</a>
+                                    <a href="">Alex Turnwall</a>
                                 </p>
                             </div>
                             <div class="col-11 col-lg-5">
                                 <p>I'm a Boston-based designer, developer, and strategist. I
-                                    <a  href="#">consult</a>, 
+                                    <a  href="">consult</a>, 
                                     <a  href="https://www.turnwall.com/articles/">write</a>, 
                                     and speak about design, entrepreneurship and technology. 
                                     You might also find me biking, kayaking, skiing, woodworking, or brewing.
@@ -211,8 +211,8 @@ function getContent(fragmentId, callback) {
                             <div class="col-md-5">
                                 <p>Get in touch:</p>
                                 <p class="small">
-                                    Email <a href="#">alex@turnwall.com</a>
-                                    <br>LinkedIn <a href="#" target="_blank">/alexturnwall</a>
+                                    Email <a href="">alex@turnwall.com</a>
+                                    <br>LinkedIn <a href="" target="_blank">/alexturnwall</a>
                                 </p>
                             </div>
                         </div>
@@ -327,7 +327,7 @@ function getContent(fragmentId, callback) {
                             <div class="col-12 col-md-11 col-lg-10 mb-3 ">
                                 <div class="row row-10">
                                     <div class="archive_item col-6 col-lg-4 p-3 card">
-                                        <a href="#">
+                                        <a href="">
                                             <figure>
                                                 <img class="card-img-top " src="./work_image/one.png" alt="Lovepop">
                                                 <figcaption>Lovepop</figcaption>
@@ -335,7 +335,7 @@ function getContent(fragmentId, callback) {
                                         </a>   
                                     </div>
                                     <div class="archive_item col-6 col-lg-4 p-3 card">
-                                        <a href="#">
+                                        <a href="">
                                             <figure>
                                                 <img class="card-img-top " src="./work_image/two.png" alt="BevSpot">
                                                 <figcaption>BevSpot</figcaption>
@@ -343,7 +343,7 @@ function getContent(fragmentId, callback) {
                                         </a>   
                                     </div>
                                     <div class="archive_item col-6 col-lg-4 p-3 card">
-                                        <a href="#">
+                                        <a href="">
                                             <figure>
                                                 <img class="card-img-top " src="./work_image/third.png" alt="MA Science Byways">
                                                 <figcaption>MA Science Byways</figcaption>
@@ -351,7 +351,7 @@ function getContent(fragmentId, callback) {
                                         </a>   
                                     </div>
                                     <div class="archive_item col-6 col-lg-4 p-3 card">
-                                        <a href="#">
+                                        <a href="">
                                             <figure>
                                                 <img class="card-img-top " src="./work_image/four.png" alt="GrubStreet">
                                                 <figcaption>GrubStreet</figcaption>
@@ -359,7 +359,7 @@ function getContent(fragmentId, callback) {
                                         </a>   
                                     </div>
                                     <div class="archive_item col-6 col-lg-4 p-3 card">
-                                        <a href="#">
+                                        <a href="">
                                             <figure>
                                                 <img class="card-img-top " src="./work_image/five.jpg" alt="CAMD @ Northeastern">
                                                 <figcaption>CAMD @ Northeastern</figcaption>
@@ -367,7 +367,7 @@ function getContent(fragmentId, callback) {
                                         </a>   
                                     </div>
                                     <div class="archive_item col-6 col-lg-4 p-3 card">
-                                        <a href="#">
+                                        <a href="">
                                             <figure>
                                                 <img class="card-img-top " src="./work_image/six.png" alt="Logos">
                                                 <figcaption>Logos</figcaption>
@@ -375,7 +375,7 @@ function getContent(fragmentId, callback) {
                                         </a>   
                                     </div>
                                     <div class="archive_item col-6 col-lg-4 p-3 card">
-                                        <a href="#">
+                                        <a href="">
                                             <figure>
                                                 <img class="card-img-top" src="./work_image/ten.jpg" alt="News @ Northeastern">
                                                 <figcaption>News @ Northeastern</figcaption>
@@ -383,7 +383,7 @@ function getContent(fragmentId, callback) {
                                         </a>   
                                     </div>
                                     <div class="archive_item col-6 col-lg-4 p-3 card">
-                                        <a href="#">
+                                        <a href="">
                                             <figure>
                                                 <img class="card-img-top" src="./work_image/eleven.jpg" alt="Various Websites">
                                                 <figcaption>Various Websites</figcaption>
@@ -391,7 +391,7 @@ function getContent(fragmentId, callback) {
                                         </a>   
                                     </div>
                                     <div class="archive_item col-6 col-lg-4 p-3 card">
-                                        <a href="#">
+                                        <a href="">
                                             <figure>
                                                 <img class="card-img-top" src="./work_image/seven.jpg" alt="Various Illustrations">
                                                 <figcaption>Various Illustrations</figcaption>
@@ -399,7 +399,7 @@ function getContent(fragmentId, callback) {
                                         </a>   
                                     </div>
                                     <div class="archive_item col-6 col-lg-4 p-3 card">
-                                        <a href="#">
+                                        <a href="">
                                             <figure>
                                                 <img class="card-img-top" src="./work_image/eight.jpg" alt="Various Print Projects">
                                                 <figcaption>Various Print Projects</figcaption>
@@ -407,7 +407,7 @@ function getContent(fragmentId, callback) {
                                         </a>   
                                     </div>
                                     <div class="archive_item col-6 col-lg-4 p-3 card">
-                                        <a href="#">
+                                        <a href="">
                                             <figure>
                                                 <img class="card-img-top " src="./work_image/nine.jpg" alt="APE SYSTEM">
                                                 <figcaption>APE SYSTEM</figcaption>
@@ -425,12 +425,12 @@ function getContent(fragmentId, callback) {
                         <div class="row py-4">
                             <div class="col-12 col-lg-2">
                                 <p>
-                                    <a href="#">Alex Turnwall</a>
+                                    <a href="">Alex Turnwall</a>
                                 </p>
                             </div>
                             <div class="col-11 col-lg-5">
                                 <p>I'm a Boston-based designer, developer, and strategist. I
-                                    <a  href="#">consult</a>, 
+                                    <a  href="">consult</a>, 
                                     <a  href="https://www.turnwall.com/articles/">write</a>, 
                                     and speak about design, entrepreneurship and technology. 
                                     You might also find me biking, kayaking, skiing, woodworking, or brewing.
@@ -439,8 +439,8 @@ function getContent(fragmentId, callback) {
                             <div class="col-md-5">
                                 <p>Get in touch:</p>
                                 <p class="small">
-                                    Email <a href="#">alex@turnwall.com</a>
-                                    <br>LinkedIn <a href="#" target="_blank">/alexturnwall</a>
+                                    Email <a href="">alex@turnwall.com</a>
+                                    <br>LinkedIn <a href="" target="_blank">/alexturnwall</a>
                                 </p>
                             </div>
                         </div>
@@ -467,13 +467,13 @@ function getContent(fragmentId, callback) {
           <div class="col-xs-12 col-sm-10 col-md-10 col-lg-8 subtitle_1">
               <article>
                   <p>Infrequent writing about things like
-                      <a href="#">Adventure</a>, 
-                      <a href="#">Business</a>, 
-                      <a href="#">Code</a>, <a href="#">Design</a>, 
-                      <a href="#">Making</a>, 
-                      <a href="#">Musings</a>, 
-                      <a href="#">Updates</a>, 
-                      <a href="#">WorkLife</a>, 
+                      <a href="">Adventure</a>, 
+                      <a href="">Business</a>, 
+                      <a href="">Code</a>, <a href="">Design</a>, 
+                      <a href="">Making</a>, 
+                      <a href="">Musings</a>, 
+                      <a href="">Updates</a>, 
+                      <a href="">WorkLife</a>, 
                       and more.
                   </p>
               </article>
@@ -493,11 +493,11 @@ function getContent(fragmentId, callback) {
                           <span class="pt-5">
                               <span class="d-block mb-3 case-study">
                                   <p>
-                                      <a class="disabled" href="#">WORKLIFE</a> / 
-                                      <a class="disabled" href="#">Note to Self Series</a>
+                                      <a class="disabled" href="">WORKLIFE</a> / 
+                                      <a class="disabled" href="">Note to Self Series</a>
                                   </p>
                               </span>
-                              <h2 class="mb-4"><a href="#">On Layoffs</a></h2>
+                              <h2 class="mb-4"><a href="">On Layoffs</a></h2>
                               <p class="h1">
                                   A generational divide in responses to layoffs, and some hard lessons from past experiences.
                               </p>
@@ -511,11 +511,11 @@ function getContent(fragmentId, callback) {
                           <span class="pt-5">
                               <span class="d-block mb-3 case-study">
                                   <p>
-                                      <a class="disabled" href="#">WORKLIFE</a> / 
-                                      <a class="disabled" href="#">Note to Self Series</a>
+                                      <a class="disabled" href="">WORKLIFE</a> / 
+                                      <a class="disabled" href="">Note to Self Series</a>
                                   </p>
                               </span>
-                              <h2 class="mb-4"><a href="#">On Personal Knowledge Management (PKM)</a></h2>
+                              <h2 class="mb-4"><a href="">On Personal Knowledge Management (PKM)</a></h2>
                               <p class="h1">
                                   Writing notes has become an extension of how I think, and an integral part of my workday and career. Here, I detail my PKM process and tools.                                    
                                   <span class="d-block mt-4 case-study">7 minute ago</span>
@@ -528,11 +528,11 @@ function getContent(fragmentId, callback) {
                           <span class="pt-5">
                               <span class="d-block mb-3 case-study">
                                   <p>
-                                      <a class="disabled" href="#">MUSINGS</a> / 
-                                      <a class="disabled" href="#">Note to Self Series</a>
+                                      <a class="disabled" href="">MUSINGS</a> / 
+                                      <a class="disabled" href="">Note to Self Series</a>
                                   </p>
                               </span>
-                              <h2 class="mb-4"><a href="#">Note to Self—a 2023 writing experiment</a></h2>
+                              <h2 class="mb-4"><a href="">Note to Self—a 2023 writing experiment</a></h2>
                               <p class="h1">
                                   Welcome to “Note to Self”—my open, in-public experiment in writing shorter, less polished, less developed ideas that mimic my personal notes on a particular subject.
                                   <span class="d-block mt-4 case-study">3 minute ago</span>
@@ -545,10 +545,10 @@ function getContent(fragmentId, callback) {
                           <span class="pt-5">
                               <span class="d-block mb-3 case-study">
                                   <p>
-                                      <a class="disabled" href="#">CODE</a> 
+                                      <a class="disabled" href="">CODE</a> 
                                   </p>
                               </span>
-                              <h2 class="mb-4"><a href="#">WordPress: find posts with ANY term in a given taxonomy</a></h2>
+                              <h2 class="mb-4"><a href="">WordPress: find posts with ANY term in a given taxonomy</a></h2>
                               <p class="h1">
                                   I was recently Googling around for an answer to this, and didn’t see that anyone posted this method, but here’s the gist. If you want to find out if a given post has a certain taxonomy, (not just a specific term, but ANY term in that taxonomy), you can use the function has_term (more in…
                                   <span class="d-block mt-4 case-study">1 minute ago</span>
@@ -562,10 +562,10 @@ function getContent(fragmentId, callback) {
                           <span class="pt-5">
                               <span class="d-block mb-3 case-study">
                                   <p>
-                                      <a class="disabled" href="#">DESIGN</a>
+                                      <a class="disabled" href="">DESIGN</a>
                                   </p>
                               </span>
-                              <h2 class="mb-4"><a href="#">Bicycle are my design inspiration—a Rapha 5×5 talk</a></h2>
+                              <h2 class="mb-4"><a href="">Bicycle are my design inspiration—a Rapha 5×5 talk</a></h2>
                               <p class="h1">
                                   I was recently invited to speak at an event called Rapha 5×5: 
                                   Intervals on Design at Fresh Tilled Soil, a local design consultancy. 
@@ -587,10 +587,10 @@ function getContent(fragmentId, callback) {
                           <span class="pt-5">
                               <span class="d-block mb-3 case-study">
                                   <p>
-                                      <a class="disabled" href="#">ADVENTURE</a>
+                                      <a class="disabled" href="">ADVENTURE</a>
                                   </p>
                               </span> 
-                              <h2 class="mb-4"><a href="#">Talking to a giant tanker from a little plastic boat</a></h2>
+                              <h2 class="mb-4"><a href="">Talking to a giant tanker from a little plastic boat</a></h2>
                               <p class="h1">
                                   It’s kayaking season here in New England, and
                                   as I was returning to the water this year
@@ -614,10 +614,10 @@ function getContent(fragmentId, callback) {
                           <span class="pt-5">
                               <span class="d-block mb-3 case-study">
                                   <p>
-                                      <a class="disabled" href="#">DESIGN</a>
+                                      <a class="disabled" href="">DESIGN</a>
                                   </p>
                               </span>                                    
-                              <h2 class="mb-4"><a href="#">Paying homage to (or stealing from) your inspiration</a></h2>                                    <p class="h1">
+                              <h2 class="mb-4"><a href="">Paying homage to (or stealing from) your inspiration</a></h2>                                    <p class="h1">
                                   I had an idea for the new version of my site:
                                   I was going to illustrate objects using only HTML and CSS 
                                   ( to show that I know how to do stuff with code), 
@@ -643,12 +643,12 @@ function getContent(fragmentId, callback) {
           <div class="row py-4">
               <div class="col-12 col-lg-2">
                   <p>
-                      <a href="#">Alex Turnwall</a>
+                      <a href="">Alex Turnwall</a>
                   </p>
               </div>
               <div class="col-11 col-lg-5">
                   <p>I'm a Boston-based designer, developer, and strategist. I
-                       <a  href="#">consult</a>, 
+                       <a  href="">consult</a>, 
                        <a  href="https://www.turnwall.com/articles/">write</a>, 
                        and speak about design, entrepreneurship and technology. 
                        You might also find me biking, kayaking, skiing, woodworking, or brewing.
@@ -657,8 +657,8 @@ function getContent(fragmentId, callback) {
               <div class="col-md-5">
                   <p>Get in touch:</p>
                   <p class="small">
-                    Email <a href="#">alex@turnwall.com</a>
-                    <br>LinkedIn <a href="#" target="_blank">/alexturnwall</a>
+                    Email <a href="">alex@turnwall.com</a>
+                    <br>LinkedIn <a href="" target="_blank">/alexturnwall</a>
                   </p>
               </div>
           </div>
@@ -706,13 +706,13 @@ function getContent(fragmentId, callback) {
           <div class="row row-10">
               <div class="col-11 col-sm-3 col-lg-2 d-none d-lg-block">
                   <p class="sticky p-lg-0 m-lg-0 sidebar_scroll">
-                      <a href="#about">About</a>
-                      <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
-                      <a href="#modus-operandi">MODUS OPERANDI</a>
-                      <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
-                      <a href="#expertise">EXPERTISE</a>
-                      <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
-                      <a href="#contact">CONTACT</a>
+                  <a  onclick="moveToabout()">About</a>
+                  <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
+                  <a  onclick="moveTomodus()">MODUS OPERANDI</a>
+                  <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
+                  <a  onclick="moveToexpertise()">EXPERTISE</a>
+                  <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
+                  <a onclick="moveTocontact()">CONTACT</a>
                   </p>
               </div>
               <div class="col-12 col-sm-9 col-lg-10">
@@ -736,7 +736,7 @@ function getContent(fragmentId, callback) {
                                   products,
                                   and have learned a thing or two along the way. I bring that experience to new
                                   ventures and
-                                  try to share it with folks through mentoring and <a href="#">writing</a>.
+                                  try to share it with folks through mentoring and <a href="">writing</a>.
                                   <br><br>
                                   I tend to think about design like a founder,
                                   because I’ve been one. Balancing process and instinct,
@@ -745,7 +745,7 @@ function getContent(fragmentId, callback) {
                                   <br><br>
                                   If this seems like your cup of tea, I'd be pleased to chat about your project needs.
                                   My availability is
-                                  <a href="#"> below</a>.
+                                  <a href=""> below</a>.
                                   <br><br>
                                   -Alex-
                               </p>
@@ -753,8 +753,8 @@ function getContent(fragmentId, callback) {
                           <div class="col-lg-4 d-none d-lg-block">
                               <article class="float-lg-end">
                                   <p>
-                                      <a href="#">alex@turnwall.com</a><br>
-                                      <span class="text-secondary">linkedin</span> <a href="#">/alexturnwall</a>
+                                      <a href="">alex@turnwall.com</a><br>
+                                      <span class="text-secondary">linkedin</span> <a href="">/alexturnwall</a>
                                   </p>
                               </article>
                           </div>
@@ -964,7 +964,7 @@ function getContent(fragmentId, callback) {
                               <div class="col-11 col-lg-6 mentoring">
                                   <h3 class="mb-3">Mentoring</h3>
                                   <p>I currently mentor entrepreneurs and designers through the 
-                                      <a href="#">Venture Mentor Network</a> and <a href="#">Scout Design</a> 
+                                      <a href="">Venture Mentor Network</a> and <a href="">Scout Design</a> 
                                       at Northeastern University. If you’re an NU student or alum, I encourage you to check them out!
                                   </p>
                                   <br>
@@ -976,7 +976,7 @@ function getContent(fragmentId, callback) {
                               <div class="col-11 col-lg-6 mentoring">
                                   <h3 class="mb-3">Something else?</h3>
                                   <p>I’m happy to chat about non-consulting opportunities like speaking, teaching, and writing engagements. Shoot me an email! 
-                                      <meta charset="utf-8"><a href="#">alex@turnwall.com</a>
+                                      <meta charset="utf-8"><a href="">alex@turnwall.com</a>
                                   </p>
                               </div>
                           </div>
@@ -991,12 +991,12 @@ function getContent(fragmentId, callback) {
           <div class="row py-4">
               <div class="col-12 col-lg-2">
                   <p>
-                      <a href="#">Alex Turnwall</a>
+                      <a href="">Alex Turnwall</a>
                   </p>
               </div>
               <div class="col-11 col-lg-5">
                   <p>I'm a Boston-based designer, developer, and strategist. I
-                      <a href="#">consult</a>,
+                      <a href="">consult</a>,
                       <a href="https://www.turnwall.com/articles/">write</a>,
                       and speak about design, entrepreneurship and technology.
                       You might also find me biking, kayaking, skiing, woodworking, or brewing.
@@ -1005,8 +1005,8 @@ function getContent(fragmentId, callback) {
               <div class="col-md-5">
                   <p>Get in touch:</p>
                   <p class="small">
-                      Email <a href="#">alex@turnwall.com</a>
-                      <br>LinkedIn <a href="#" target="_blank">/alexturnwall</a>
+                      Email <a href="">alex@turnwall.com</a>
+                      <br>LinkedIn <a href="" target="_blank">/alexturnwall</a>
                   </p>
               </div>
           </div>
@@ -1021,14 +1021,10 @@ function getContent(fragmentId, callback) {
       </div>
                     </footer>`
     };
-
     callback(pages[fragmentId]);
 }
 
-
-
 function loadContent() {
-
     var contentDiv = document.getElementById("app"),
         fragmentId = location.hash.substring(1);
 

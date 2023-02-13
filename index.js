@@ -38,10 +38,36 @@ function homeTitle(){
 }
 let workTitle = () =>{
     document.querySelector("title").textContent = "Portfolio Archive-Alex Turnwall";
+    document.getElementById("nava").style.borderBottom = "3px solid black";
+    document.getElementById("navb").style.borderBottom = "";
+    document.getElementById("navc").style.borderBottom = "";
 }
 let blogTitle = () =>{
     document.querySelector("title").textContent = "Articles-Alex Turnwall";
+    document.getElementById("navb").style.borderBottom = "3px solid black";
+    document.getElementById("nava").style.borderBottom = "";
+    document.getElementById("navc").style.borderBottom = "";
 }
 let aboutTitle = () =>{
     document.querySelector("title").textContent = "About-Alex Turnwall";
+    document.getElementById("navc").style.borderBottom = "3px solid black";
+    document.getElementById("navb").style.borderBottom = "";
+    document.getElementById("nava").style.borderBottom = "";
 }
+let moveToabout = () => {
+    const element = document.getElementById("about");
+    element.scrollIntoView();
+}
+let moveTomodus = () =>{
+    const element = document.getElementById("modus-operandi");
+    element.scrollIntoView();
+}
+let moveToexpertise = () =>{
+    const element = document.getElementById("expertise");
+    element.scrollIntoView();
+}
+let moveTocontact =() =>{
+    const element = document.getElementById("contact");
+    element.scrollIntoView();
+}
+

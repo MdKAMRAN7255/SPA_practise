@@ -107,6 +107,7 @@ p.small{
     text-decoration: none;
     background-image:none;
     font-size: 0.8rem;
+    cursor: pointer;
 }
 .sidebar_scroll a.active {
     color: #000;
