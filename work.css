@@ -1,0 +1,214 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f6f8f8 !important;
+}
+header.scroll-up{
+    transform: translateY(0);
+}
+header{
+ position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  transition: all 300ms ease;
+  z-index: 10;
+  background-color: #f6f8f8 !important;
+}
+header.scroll-down{
+    transform: translateY(-100%);
+}
+.brand-name a{
+    font-size: 1.2rem;
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+.other-nav-link a{
+    color: rgb(93, 93, 93);
+    font-size: 1rem;
+    transition: color 0.5s ease;
+}
+.other-nav-link a:hover{
+    color: #000;
+}
+h1{
+    font-size: 7rem ;
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 900 !important;
+    letter-spacing: -0.05em;
+    margin-bottom: 0.5em;
+
+}
+.subtitle_1{
+    margin-bottom: 1.2em;
+}
+.subtitle_1 p{
+    color: #3e4242;
+    letter-spacing: -0.01em;
+    font-size: 1.8rem;
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.45;
+}
+.third-para p, .fourth-para p, .select-work p, .select-post p{
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    color: #3e4242;
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.45;
+}
+p{
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin-bottom: 0.3em; 
+}
+p a{
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 1rem;
+    color: #585e5e;
+}
+.anchor{
+    color: gray;
+    pointer-events: none;
+    background-image: none !important;
+}
+.hr1{ 
+    color: black !important;
+    border: 3px solid;
+    margin-top: 5rem;
+}
+.case-study{
+    font-size: 1em;
+    line-height: 1;
+    color: #585e5e;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+.select-work p{
+    font-size: x-large;
+}
+.select-work-individual-item{
+    padding: 1rem;
+    transition: all 0.3s linear;
+    cursor: pointer;
+    /* transition: box-shadow 0.2s ease; */
+}
+.select-work-individual-item:hover{
+    background-color: #fcfdfd;
+    box-shadow: 0 0.2rem 0.65rem rgb(53 63 74 / 10%);
+    
+}
+.select-work-individual-item-image img{
+    width: 100%;
+    top: 20%;
+    left: 5%;
+    border-radius: 5px;
+    transition: all 0.3s linear;
+} 
+.select-work-individual-item img:hover{
+    transform: scale(1.03);
+}
+.select-work-individual-item-image{
+    overflow-y: hidden;
+    overflow-x: hidden;
+    background-color: #660066;
+    border-radius: 5px;
+}
+.select-work-individual-item-image:hover{
+    border-radius: 0px;
+}
+.select-work-individual-item-image2 img{
+    border-radius: 5px;
+    transition: all 0.3s linear;
+} 
+.select-work-individual-item2 img:hover{
+    transform: scale(1.01);
+}
+.select-work-individual-item-image2{
+    overflow-y: hidden;
+    overflow-x: hidden;
+    border-radius: 5px;
+}
+.select-work-individual-item-image2:hover{
+    border-radius: 0px;
+}
+
+.sticky{
+    position: sticky;
+    top: calc(80px + 1rem);
+}
+.archive_item{
+    filter: #3e4242;
+       -webkit-filter: grayscale(1); /* effect by which all div is in black&white initial */
+      -webkit-transition: all .3s ease-in-out;  
+    border: none;
+    border-radius: 0px !important;
+}
+.archive_item:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    z-index: 1;
+    filter: none;
+      -webkit-filter: grayscale(0);
+      -webkit-transform: scale(1.01);
+      color: #000;
+}
+.archive_item img{
+    height: 200px;
+}
+.archive_item a{
+    text-decoration: none !important;
+}
+.archive_item figure figcaption{
+    padding: 0.5rem 0 2rem;
+    line-height: 1.25;
+    color: #3e4242;
+    margin-top: 0.5rem;
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+footer{
+    background-color: #383E3E;
+    color: #ccc !important;
+}
+footer p{
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: 1.1rem;
+    line-height: 1.45;
+    letter-spacing: 0.03em;
+}
+footer p a{
+    color: #ccc !important;
+    text-decoration: none;
+    background-image: linear-gradient(#2ca8fa 0%, #51b5f7 100%);
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+    background-size:  100% 0.2em;
+    transition: background-size 0.2s ease;
+}
+footer p a:hover {
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background-size: 100% 1.1em;
+}
+@media only screen and (max-width: 800px) {
+    h1{
+        font-size: 5rem;
+    }
+    .select-work p{
+        font-size: large;
+    }
+    .select-post p{
+        font-size: medium;
+    }
+}
+@media only screen and (max-width: 500px) {
+    h1{
+        font-size: 2rem;
+    }
+    .select-work-individual-item-image, .select-work-individual-item-image2{
+        height: 250px;
+    }
+}

@@ -1,0 +1,214 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f6f8f8 !important;
+}
+header.scroll-up{
+    transform: translateY(0);
+}
+header{
+ position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  transition: all 300ms ease;
+  z-index: 10;
+  background-color: #f6f8f8 !important;
+}
+header.scroll-down{
+    transform: translateY(-100%);
+}
+.brand-name a{
+    font-size: 1.2rem;
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+.other-nav-link a{
+    color: rgb(93, 93, 93);
+    font-size: 1rem;
+    transition: color 0.5s ease;
+}
+.other-nav-link a:hover{
+    color: #000;
+}
+h1{
+    font-size: 7rem ;
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 900 !important;
+    letter-spacing: -0.05em;
+    margin-bottom: 0.5em;
+
+}
+.modus p{
+    color: #3e4242;
+    letter-spacing: -0.01em;
+    font-size: 1.5rem;
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.45;
+}
+.modus-advise h2{
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+    line-height: 100%;
+    padding: 0;
+    padding-top: 10px;
+    width: 100%;
+    margin: 0 0 10px;
+    display: block;
+    float: left;
+    color: #242929;
+}
+.expertise h4{
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 100%;
+    padding: 0;
+    padding-top: 10px;
+    width: 100%;
+    margin: 0 0 10px;
+    display: block;
+    float: left;
+    color: #242929;
+}
+p.small{
+    font-size: 1.1rem;
+    line-height: inherit;
+}
+.expertise p.small{
+    font-size: 1rem;
+    line-height: inherit;
+}
+.subtitle_1{
+    margin-bottom: 1.2em;
+}
+.subtitle_1 p{
+    color: #3e4242;
+    letter-spacing: -0.01em;
+    font-size: 1.8rem;
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.45;
+}
+.about p{
+    color: #3e4242;
+    letter-spacing: -0.01em;
+    font-size: 1.3rem;
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.45;
+}
+.about p a{
+    font-size: 1.3rem;
+}
+.sidebar_scroll a{
+    text-decoration: none;
+    background-image:none;
+    font-size: 0.8rem;
+}
+.sidebar_scroll a.active {
+    color: #000;
+    font-weight: 700;
+}
+p{
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+p a{
+    color: #3e4242;
+    text-decoration: none;
+    background-image: linear-gradient(#2ca8fa 0%, #51b5f7 100%);
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+    background-size:  100% 0.1em;
+    transition: background-size 0.2s ease;
+    font-weight: 400;
+    font-size: 1rem;
+}
+p a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background-size: 100% 1.2em;
+}
+.hr1{ 
+    color: black !important;
+    border: 3px solid;
+    margin-top: 5rem;
+}
+.case-study{
+    font-size: 1em;
+    line-height: 1;
+    color: #585e5e;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+.select-work p{
+    font-size: x-large;
+}
+
+.sticky{
+    position: sticky;
+    top: calc(80px + 1rem);
+}
+h3 {
+    font-size: 2rem ;
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700 !important;
+    letter-spacing: -0.05em;
+    margin-bottom: 0.5em;
+}
+.mentoring h3{
+    font-size: 1.8rem ;
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600 !important;
+    letter-spacing: -0.05em;
+    margin-bottom: 0.5em;
+}
+.mentoring p{
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: 1.1rem;
+    line-height: 1.45;
+    color: #3e4242;
+}
+.mentoring p a{
+    font-size: 1.1rem;
+}
+footer{
+    background-color: #383E3E;
+    color: #ccc !important;
+}
+footer p{
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: 1.1rem;
+    line-height: 1.45;
+    letter-spacing: 0.03em;
+}
+footer p a{
+    color: #ccc !important;
+}
+@media only screen and (max-width: 800px) {
+    h1{
+        font-size: 5rem;
+    }
+    .select-work p{
+        font-size: large;
+    }
+    .select-post p{
+        font-size: medium;
+    }
+}
+@media only screen and (max-width: 500px) {
+    h1{
+        font-size: 2rem;
+    }
+    .select-work-individual-item-image, .select-work-individual-item-image2{
+        height: 250px;
+    }
+}
+
+
