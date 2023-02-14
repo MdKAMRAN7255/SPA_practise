@@ -715,10 +715,10 @@ function getContent(fragmentId, callback) {
                   <a onclick="moveTocontact()">CONTACT</a>
                   </p>
               </div>
-              <div class="col-12 col-sm-9 col-lg-10">
+              <div class="col-12 col-sm-10 col-md-11 col-lg-10">
                   <div class="container-fluid">
                       <div class="row row-10">
-                          <div class="col-11 col-md-10 col-lg-8 about" id="about">
+                          <div class="col-11 col-sm-10 col-md-11 col-lg-8 about" id="about">
                               <p>
                                   I’ve been called a ‘pragmatic’ designer.<br>
                                   I take that as a compliment.
