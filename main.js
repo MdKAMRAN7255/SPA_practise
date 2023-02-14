@@ -226,7 +226,7 @@ function getContent(fragmentId, callback) {
                             
                         </div>
                     </div>
-                    </footer>`,
+               </footer>`,
         work: `<div class="container pt-5 mt-5 px-3 px-md-0">
                     <div class="row">
                         <div class="second-para col-xs-10 col-sm-9 col-md-12 col-lg-12">
@@ -454,7 +454,7 @@ function getContent(fragmentId, callback) {
                             
                         </div>
                     </div>
-                </footer>`,
+               </footer>`,
         blog: `<div class="container pt-5 mt-5 px-3 px-md-0">
       <div class="row">
           <div class="second-para col-xs-10 col-sm-9 col-md-12 col-lg-12">
@@ -672,610 +672,613 @@ function getContent(fragmentId, callback) {
               
           </div>
       </div>
-                </footer>`,
+               </footer>`,
         aboutalex: `<div class="container pt-5 mt-5 px-3 px-md-0 d-lg-flex">
-      <div class="col-12 col-md-10 col-lg-8">
-          <div class="row">
-              <div class="second-para col-xs-10 col-sm-9 col-md-12 col-lg-12" id="about">
-                  <h1 class="">
-                      About
-                  </h1>
-              </div>
-          </div>
-          <div class="row">
-              <div class="col-xs-12 col-sm-10 col-md-10 col-lg-9 subtitle_1">
-                  <article>
-                      <p>
-                          Designer, developer, and product strategist trying to move the needle.
-                      </p>
-                  </article>
-              </div>
-          </div>
-      </div>
-      <div class="col-12 col-md-4 pt-lg-2">
-          <figure>
-              <img src="./alex_prf.png" class="float-lg-end" alt="Alex Profile" width="200px" height="200px">
-          </figure>
-      </div>
-  </div>
-  <div class="container">
-      <hr class="hr1">
-  </div>
-  <div class="section mt-5 px-2 px-md-0">
-      <div class="container select-work-parent">
-          <div class="row row-10">
-              <div class="col-11 col-sm-3 col-lg-2 d-none d-lg-block">
-                  <p class="sticky p-lg-0 m-lg-0 sidebar_scroll">
-                  <a  onclick="moveToabout()">About</a>
-                  <br>_
-                  <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
-                  <a  onclick="moveTomodus()">MODUS OPERANDI</a>
-                  <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
-                  <a  onclick="moveToexperience()">EXPERIENCE</a>
-                  <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
-                  <a  onclick="moveToexpertise()">EXPERTISE</a>
-                  <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
-                  <a onclick="moveToconsulting()">CONSULTING</a>
-                  <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
-                  <a onclick="moveTocontact()">CONTACT</a>
-              </p>
-                  </p>
-              </div>
-              <div class="col-12 col-sm-10 col-md-11 col-lg-10">
-                  <div class="container-fluid">
-                      <div class="row row-10">
-                          <div class="col-11 col-sm-10 col-md-11 col-lg-8 about" id="about">
-                              <p>
-                                  I’ve been called a ‘pragmatic’ designer.<br>
-                                  I take that as a compliment.
-                                  <br><br>
-                                  My professional work slants towards product design that can make a measurable
-                                  impact.
-                                  Usability over style. Stylish when called for.
-                                  <br><br>
-                                  Learning from your customers and shipping delightful,
-                                  yet useful tools for them is both rewarding and challenging,
-                                  which is why I've been drawn to working with early products,
-                                  especially those where you can get to know your users personally.
-                                  <br><br>
-                                  I’ve had the privilege of working with some great teams on some truly impactful
-                                  products,
-                                  and have learned a thing or two along the way. I bring that experience to new
-                                  ventures and
-                                  try to share it with folks through mentoring and <a href="">writing</a>.
-                                  <br><br>
-                                  I tend to think about design like a founder,
-                                  because I’ve been one. Balancing process and instinct,
-                                  the goal is to find harmony between user delight and business strategy,
-                                  as fast as you can deliver quality.
-                                  <br><br>
-                                  If this seems like your cup of tea, I'd be pleased to chat about your project needs.
-                                  My availability is
-                                  <a href=""> below</a>.
-                                  <br><br>
-                                  -Alex-
-                              </p>
-                          </div>
-                          <div class="col-lg-4 d-none d-lg-block">
-                              <article class="float-lg-end">
-                                  <p>
-                                      <a href="">alex@turnwall.com</a><br>
-                                      <span class="text-secondary">linkedin</span> <a href="">/alexturnwall</a>
-                                  </p>
-                              </article>
-                          </div>
-                      </div>
-                  </div>
-                  <hr class="hr1" id="modus-operandi">
-                  <div class="row mb-5 pb-5">
-                      <div class="col-12 col-lg-12 modus mt-2 mb-5 pb-5">
-                          <span class="d-block mb-3 case-study mb-4" >MODUS OPERANDI</span>
-                          <div class="col-12 col-lg-10">
-                              <h3 class="mb-4">I believe that businesses can make a positive impact on people’s
-                                  lives through the thoughtful application of technology and design.</h3>
-                          </div>
-                          <div class="col-12 col-lg-8 mb-5">
-                              <p class="h1">
-                                  I’m not particularly picky about my role or title, but I am selective about the
-                                  teams I work with. My approach is informed by these beliefs, and I try to work with
-                                  teams that share them: </p>
-                          </div>
-                          <div class="col-12 col-sm-2"></div>
-                          <div class="col-12 col-sm-12 ">
-                              <div class="row row-10">
-                                  <div class="col-12 col-sm-4 modus-advise">
-                                      <h2 class="mb-2">1</h2>
-                                      <h4 class="mb-2">Design is a measurable strategic asset.</h4>
-                                      <p class="small">Good design can contribute directly to an organization's bottom line.
-                                          According to multiple studies, organizations that value design consistently perform
-                                          stronger on virtually all financial measures.
-                                      </p>
-                                  </div>
-                                  <div class="col-12 col-sm-4 modus-advise">
-                                      <h2 class="mb-2">2</h2>
-                                      <h4 class="mb-2">Design is a measurable strategic asset.</h4>
-                                      <p class="small">Good design can contribute directly to an organization's bottom line.
-                                          According to multiple studies, organizations that value design consistently perform
-                                          stronger on virtually all financial measures.
-                                      </p>
-                                  </div>
-                                  <div class="col-12 col-sm-4 modus-advise">
-                                      <h2 class="mb-2">3</h2>
-                                      <h4 class="mb-2">Diversity in collaboration yields the best results.</h4>
-                                      <p class="small">Our audiences are global. We live in an interconnected world where no one person 
-                                          has all of the skills to make most of the products we use everyday. 
-                                          We need to work with partners who are diverse in background and discipline to create better products,
-                                           services and organizations for the future.
-                                      </p>    
-                                  </div>
-                              </div>
-                              <div class="row row-10">
-                                  <div class="col-12 col-sm-4">
-
-                                  </div>
-                                  <div class="col-12 col-sm-4 modus-advise">
-                                      <h2 class="mb-2">4</h2>
-                                      <h4 class="mb-2">Technology should feel easy.</h4>
-                                      <p class="small">Every user is different and one size 
-                                          should not fit all. The goal of interaction design is to 
-                                          create products or interfaces that will work best for an intended 
-                                          user. That means it might have to work equally well for 
-                                          many users with many different technologies—today's tech has to be flexible and adaptable.
-                                      </p>    
-                                  </div>
-                                  <div class="col-12 col-sm-4 modus-advise">
-                                      <h2 class="mb-2">5</h2>
-                                      <h4 class="mb-2">Marketing can be a force for good.</h4>
-                                      <p class="small">Understanding consumer behavior and knowing how to 
-                                          learn what a customer wants can work towards the promotion of a 
-                                          social campaign just as effectively as it can promote a product. 
-                                          Harnessing that power for the right reasons is a worthwhile endeavor.
-                                      </p>    
-                                  </div>
-                              </div>
-                              <div class="row row-10">
-                                  <div class="col-12 col-sm-4 modus-advise">
-                                      <h2 class="mb-2">6</h2>
-                                      <h4 class="mb-2">Great brands aren’t just skin-deep.</h4>
-                                      <p class="small">You can’t throw a new logo and website up and 
-                                          call it a brand refresh (that is, in fact, an identity). 
-                                          Branding touches every facet of an organization and is reflected 
-                                          in everything an organization does, meaning corporate 
-                                          ethos and responsibility are more important than the design.
-                                      </p>    
-                                  </div>
-                                  <div class="col-12 col-sm-4 modus-advise">
-                                      <h2 class="mb-2">7</h2>
-                                      <h4 class="mb-2">Trusting relationships produce better work, faster.</h4>                                        
-                                      <p class="small">You trust me, I trust you; 
-                                          enough so that we both give honest opinions. 
-                                          This is how iteration produces better results, faster. 
-                                          Without this trust, it's hard to produce meaningful results. 
-                                          Trust takes effort, but it's worth it.
-                                      </p>    
-                                  </div>
-                                  <div class="col-12 col-sm-4"></div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <hr class="hr1" id="experience">
-                    <div class="row mb-5 pb-5">
-                        <div class="col-12 col-lg-12 modus mt-2 mb-5 pb-5">
-                            <span class="d-block mb-3 case-study mb-4" >EXPERIENCE</span>
-                            <div class="col-12 col-lg-7 mb-5 pb-1">
-                                <h3 class="mb-4">For over a decade, I’ve …<br>
-                                    helped launch and scale businesses,
-                                    worked at a studio (and started one),
-                                    taught at a university’s design school, and
-                                    consulted with organizations of all sorts.</h3>
+                        <div class="col-12 col-md-10 col-lg-8">
+                            <div class="row">
+                                <div class="second-para col-xs-10 col-sm-9 col-md-12 col-lg-12" id="about">
+                                    <h1 class="">
+                                        About
+                                    </h1>
+                                </div>
                             </div>
-                            <div class="row row-10 mb-5 pb-3">
-                                <div class="col-12 col-sm-4 modus-advise">
-                                    <h4 class="mb-2">I design and code.</h4>
-                                    <p class="small">I've spent years driving design and technical projects from start to finish on a variety of very 
-                                        different teams. I've managed and contributed to projects for startups, universities,
-                                         large international corporations, medical and research institutions, and government agencies.
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-10 col-md-10 col-lg-9 subtitle_1">
+                                    <article>
+                                        <p>
+                                            Designer, developer, and product strategist trying to move the needle.
+                                        </p>
+                                    </article>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4 pt-lg-2">
+                            <figure>
+                                <img src="./alex_prf.png" class="float-lg-end" alt="Alex Profile" width="200px" height="200px">
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <hr class="hr1">
+                    </div>
+                    <div class="section mt-5 px-2 px-md-0">
+                        <div class="container select-work-parent">
+                            <div class="row row-10">
+                                <div class="col-11 col-sm-3 col-lg-2 d-none d-lg-block">
+                                    <p class="sticky p-lg-0 m-lg-0 sidebar_scroll">
+                                    <a  onclick="moveToabout()">About</a>
+                                    <br>_
+                                    <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
+                                    <a  onclick="moveTomodus()">MODUS OPERANDI</a>
+                                    <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
+                                    <a  onclick="moveToexperience()">EXPERIENCE</a>
+                                    <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
+                                    <a  onclick="moveToexpertise()">EXPERTISE</a>
+                                    <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
+                                    <a onclick="moveToconsulting()">CONSULTING</a>
+                                    <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
+                                    <a onclick="moveTocontact()">CONTACT</a>
+                                </p>
                                     </p>
                                 </div>
-                                <div class="col-12 col-sm-4 modus-advise">
-                                    <h4 class="mb-2">I teach.</h4>
-                                    <p class="small">I’ve taught at Northeastern’s design program, now I volunteer to help young designers and 
-                                        entrepreneurs learn through design and technology. I've spend a good deal of time thinking about design in the classroom. 
-                                        This strengthens my practice just as much as client work impacts my teaching.
-                                </div>
-                                <div class="col-12 col-sm-4 modus-advise">
-                                    <h4 class="mb-2">I’m an entrepreneur.</h4>
-                                    <p class="small">I've been involved in entrepreneurship for over a decade: having helped start a venture accelerator, 
-                                        co-founded a design studio, been on founding teams, helped startups scale 
-                                        through multiple rounds of VC funding, and now consult with and mentor entrepreneurs.
-                                    </p>    
-                                </div>
-                            </div>
-                            <div class="col-12 col-sm-12 ">
-                                <div class="row">
-                                    <div class="col-12 px-0">
-                                        <h4 class="mb-5">Select Positions</h4>
-                                    </div>
-                                    <hr>
-                                    <div class="row">
-                                        <div class="col-12 col-md-3">
-                                            <p class="small">verilly
-                                            </p>
-                                        </div>
-                                        <div class="col-12 col-md-3">
-                                            <p class="small">Staff UX Designer
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center">2021-
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center">
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <hr>
-                                    <div class="row">
-                                        <div class="col-12 col-md-3">
-                                            <p class="small">Connected Proof
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small">Co-founder/Product & Design
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center">2019-2021
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center">
-                                                <a href="">Case Study</a>
-                                            </p>
-                                        </div>
-                                    </div> 
-                                    <hr>
-                                    <div class="row">
-                                        <div class="col-12 col-md-3">
-                                            <p class="small">AdmitHub
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small">Head Of Design
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center">2018-2020
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center">
-                                                <a href="">Case Study</a>
-                                            </p>
-                                        </div>
-                                    </div> 
-                                    <hr>
-                                    <div class="row">
-                                        <div class="col-12 col-md-3">
-                                            <p class="small">lovepop
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small">Consultant
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center">2018-2019
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center">
-                                                <a href="">Case Study</a>
-                                            </p>
-                                        </div>
-                                    </div> 
-                                    <hr>
-                                    <div class="row">
-                                        <div class="col-12 col-md-3">
-                                            <p class="small">BevSpot
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small">Cheif Design Officer
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center">2014-2018
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center"><a href=""> Case Study <br> Snapshot</a>
-                                            </p>
+                                <div class="col-12 col-sm-10 col-md-11 col-lg-10">
+                                    <div class="container-fluid">
+                                        <div class="row row-10">
+                                            <div class="col-11 col-sm-10 col-md-11 col-lg-8 about" id="about">
+                                                <p>
+                                                    I’ve been called a ‘pragmatic’ designer.<br>
+                                                    I take that as a compliment.
+                                                    <br><br>
+                                                    My professional work slants towards product design that can make a measurable
+                                                    impact.
+                                                    Usability over style. Stylish when called for.
+                                                    <br><br>
+                                                    Learning from your customers and shipping delightful,
+                                                    yet useful tools for them is both rewarding and challenging,
+                                                    which is why I've been drawn to working with early products,
+                                                    especially those where you can get to know your users personally.
+                                                    <br><br>
+                                                    I’ve had the privilege of working with some great teams on some truly impactful
+                                                    products,
+                                                    and have learned a thing or two along the way. I bring that experience to new
+                                                    ventures and
+                                                    try to share it with folks through mentoring and <a href="">writing</a>.
+                                                    <br><br>
+                                                    I tend to think about design like a founder,
+                                                    because I’ve been one. Balancing process and instinct,
+                                                    the goal is to find harmony between user delight and business strategy,
+                                                    as fast as you can deliver quality.
+                                                    <br><br>
+                                                    If this seems like your cup of tea, I'd be pleased to chat about your project needs.
+                                                    My availability is
+                                                    <a href=""> below</a>.
+                                                    <br><br>
+                                                    -Alex-
+                                                </p>
+                                            </div>
+                                            <div class="col-lg-4 d-none d-lg-block">
+                                                <article class="float-lg-end">
+                                                    <p>
+                                                        <a href="">alex@turnwall.com</a><br>
+                                                        <span class="text-secondary">linkedin</span> <a href="">/alexturnwall</a>
+                                                    </p>
+                                                </article>
+                                            </div>
                                         </div>
                                     </div>
-                                    <hr>
-                                    <div class="row">
-                                        <div class="col-12 col-md-3">
-                                            <p class="small">Northeastern University
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small">Lecturer @College of Arts, Media + Design;
-                                                Founding Faculty Advisor @Scout Studio
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center">2011-14
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center"><a href=""> Case Study</a>
-                                            </p>
+                                    <hr class="hr1" id="modus-operandi">
+                                    <div class="row mb-5 pb-5">
+                                        <div class="col-12 col-lg-12 modus mt-2 mb-5 pb-5">
+                                            <span class="d-block mb-3 case-study mb-4" >MODUS OPERANDI</span>
+                                            <div class="col-12 col-lg-10">
+                                                <h3 class="mb-4">I believe that businesses can make a positive impact on people’s
+                                                    lives through the thoughtful application of technology and design.</h3>
+                                            </div>
+                                            <div class="col-12 col-lg-8 mb-5">
+                                                <p class="h1">
+                                                    I’m not particularly picky about my role or title, but I am selective about the
+                                                    teams I work with. My approach is informed by these beliefs, and I try to work with
+                                                    teams that share them: </p>
+                                            </div>
+                                            <div class="col-12 col-sm-2"></div>
+                                            <div class="col-12 col-sm-12 ">
+                                                <div class="row row-10">
+                                                    <div class="col-12 col-sm-4 modus-advise">
+                                                        <h2 class="mb-2">1</h2>
+                                                        <h4 class="mb-2">Design is a measurable strategic asset.</h4>
+                                                        <p class="small">Good design can contribute directly to an organization's bottom line.
+                                                            According to multiple studies, organizations that value design consistently perform
+                                                            stronger on virtually all financial measures.
+                                                        </p>
+                                                    </div>
+                                                    <div class="col-12 col-sm-4 modus-advise">
+                                                        <h2 class="mb-2">2</h2>
+                                                        <h4 class="mb-2">Design is a measurable strategic asset.</h4>
+                                                        <p class="small">Good design can contribute directly to an organization's bottom line.
+                                                            According to multiple studies, organizations that value design consistently perform
+                                                            stronger on virtually all financial measures.
+                                                        </p>
+                                                    </div>
+                                                    <div class="col-12 col-sm-4 modus-advise">
+                                                        <h2 class="mb-2">3</h2>
+                                                        <h4 class="mb-2">Diversity in collaboration yields the best results.</h4>
+                                                        <p class="small">Our audiences are global. We live in an interconnected world where no one person 
+                                                            has all of the skills to make most of the products we use everyday. 
+                                                            We need to work with partners who are diverse in background and discipline to create better products,
+                                                            services and organizations for the future.
+                                                        </p>    
+                                                    </div>
+                                                </div>
+                                                <div class="row row-10">
+                                                    <div class="col-12 col-sm-4">
+
+                                                    </div>
+                                                    <div class="col-12 col-sm-4 modus-advise">
+                                                        <h2 class="mb-2">4</h2>
+                                                        <h4 class="mb-2">Technology should feel easy.</h4>
+                                                        <p class="small">Every user is different and one size 
+                                                            should not fit all. The goal of interaction design is to 
+                                                            create products or interfaces that will work best for an intended 
+                                                            user. That means it might have to work equally well for 
+                                                            many users with many different technologies—today's tech has to be flexible and adaptable.
+                                                        </p>    
+                                                    </div>
+                                                    <div class="col-12 col-sm-4 modus-advise">
+                                                        <h2 class="mb-2">5</h2>
+                                                        <h4 class="mb-2">Marketing can be a force for good.</h4>
+                                                        <p class="small">Understanding consumer behavior and knowing how to 
+                                                            learn what a customer wants can work towards the promotion of a 
+                                                            social campaign just as effectively as it can promote a product. 
+                                                            Harnessing that power for the right reasons is a worthwhile endeavor.
+                                                        </p>    
+                                                    </div>
+                                                </div>
+                                                <div class="row row-10">
+                                                    <div class="col-12 col-sm-4 modus-advise">
+                                                        <h2 class="mb-2">6</h2>
+                                                        <h4 class="mb-2">Great brands aren’t just skin-deep.</h4>
+                                                        <p class="small">You can’t throw a new logo and website up and 
+                                                            call it a brand refresh (that is, in fact, an identity). 
+                                                            Branding touches every facet of an organization and is reflected 
+                                                            in everything an organization does, meaning corporate 
+                                                            ethos and responsibility are more important than the design.
+                                                        </p>    
+                                                    </div>
+                                                    <div class="col-12 col-sm-4 modus-advise">
+                                                        <h2 class="mb-2">7</h2>
+                                                        <h4 class="mb-2">Trusting relationships produce better work, faster.</h4>                                        
+                                                        <p class="small">You trust me, I trust you; 
+                                                            enough so that we both give honest opinions. 
+                                                            This is how iteration produces better results, faster. 
+                                                            Without this trust, it's hard to produce meaningful results. 
+                                                            Trust takes effort, but it's worth it.
+                                                        </p>    
+                                                    </div>
+                                                    <div class="col-12 col-sm-4"></div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
-                                    <hr>
-                                    <div class="row">
-                                        <div class="col-12 col-md-3">
-                                            <p class="small">Hifinit Design Studio
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small">Co-Founder & Principal
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center">2010-13
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center">
-                                            </p>
+                                    <hr class="hr1" id="experience">
+                                        <div class="row mb-5 pb-5">
+                                            <div class="col-12 col-lg-12 modus mt-2 mb-5 pb-5">
+                                                <span class="d-block mb-3 case-study mb-4" >EXPERIENCE</span>
+                                                <div class="col-12 col-lg-7 mb-5 pb-1">
+                                                    <h3 class="mb-4">For over a decade, I’ve …<br>
+                                                        helped launch and scale businesses,
+                                                        worked at a studio (and started one),
+                                                        taught at a university’s design school, and
+                                                        consulted with organizations of all sorts.</h3>
+                                                </div>
+                                                <div class="row row-10 mb-5 pb-3">
+                                                    <div class="col-12 col-sm-4 modus-advise">
+                                                        <h4 class="mb-2">I design and code.</h4>
+                                                        <p class="small">I've spent years driving design and technical projects from start to finish on a variety of very 
+                                                            different teams. I've managed and contributed to projects for startups, universities,
+                                                            large international corporations, medical and research institutions, and government agencies.
+                                                        </p>
+                                                    </div>
+                                                    <div class="col-12 col-sm-4 modus-advise">
+                                                        <h4 class="mb-2">I teach.</h4>
+                                                        <p class="small">I’ve taught at Northeastern’s design program, now I volunteer to help young designers and 
+                                                            entrepreneurs learn through design and technology. I've spend a good deal of time thinking about design in the classroom. 
+                                                            This strengthens my practice just as much as client work impacts my teaching.
+                                                    </div>
+                                                    <div class="col-12 col-sm-4 modus-advise">
+                                                        <h4 class="mb-2">I’m an entrepreneur.</h4>
+                                                        <p class="small">I've been involved in entrepreneurship for over a decade: having helped start a venture accelerator, 
+                                                            co-founded a design studio, been on founding teams, helped startups scale 
+                                                            through multiple rounds of VC funding, and now consult with and mentor entrepreneurs.
+                                                        </p>    
+                                                    </div>
+                                                </div>
+                                                <div class="col-12 col-sm-12 ">
+                                                    <div class="row">
+                                                        <div class="col-12 px-0">
+                                                            <h4 class="mb-5">Select Positions</h4>
+                                                        </div>
+                                                        <hr>
+                                                        <div class="row">
+                                                            <div class="col-12 col-md-3">
+                                                                <p class="small">verilly
+                                                                </p>
+                                                            </div>
+                                                            <div class="col-12 col-md-3">
+                                                                <p class="small">Staff UX Designer
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center">2021-
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center">
+                                                                </p>
+                                                            </div>
+                                                        </div>
+                                                        <hr>
+                                                        <div class="row">
+                                                            <div class="col-12 col-md-3">
+                                                                <p class="small">Connected Proof
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small">Co-founder/Product & Design
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center">2019-2021
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center">
+                                                                    <a href="">Case Study</a>
+                                                                </p>
+                                                            </div>
+                                                        </div> 
+                                                        <hr>
+                                                        <div class="row">
+                                                            <div class="col-12 col-md-3">
+                                                                <p class="small">AdmitHub
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small">Head Of Design
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center">2018-2020
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center">
+                                                                    <a href="">Case Study</a>
+                                                                </p>
+                                                            </div>
+                                                        </div> 
+                                                        <hr>
+                                                        <div class="row">
+                                                            <div class="col-12 col-md-3">
+                                                                <p class="small">lovepop
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small">Consultant
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center">2018-2019
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center">
+                                                                    <a href="">Case Study</a>
+                                                                </p>
+                                                            </div>
+                                                        </div> 
+                                                        <hr>
+                                                        <div class="row">
+                                                            <div class="col-12 col-md-3">
+                                                                <p class="small">BevSpot
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small">Cheif Design Officer
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center">2014-2018
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center"><a href=""> Case Study <br> Snapshot</a>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+                                                        <hr>
+                                                        <div class="row">
+                                                            <div class="col-12 col-md-3">
+                                                                <p class="small">Northeastern University
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small">Lecturer @College of Arts, Media + Design;
+                                                                    Founding Faculty Advisor @Scout Studio
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center">2011-14
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center"><a href=""> Case Study</a>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+                                                        <hr>
+                                                        <div class="row">
+                                                            <div class="col-12 col-md-3">
+                                                                <p class="small">Hifinit Design Studio
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small">Co-Founder & Principal
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center">2010-13
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center">
+                                                                </p>
+                                                            </div>
+                                                        </div>
+                                                        <hr>
+                                                        <div class="row">
+                                                            <div class="col-12 col-md-3">
+                                                                <p class="small">Metropolis Creative
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small">Designer & Developer
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center">
+                                                                    2008-09
+                                                                </p>
+                                                            </div><div class="col-12 col-md-3">
+                                                                <p class="small text-sm-center">
+                                                                </p>
+                                                            </div>
+                                                        </div>                               
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    <hr class="hr1" id="expertise">
+                                    <div class="row row-10 mb-5 pb-5">
+                                        <div class="col-12 col-lg-12 modus mb-5 mt-2 pb-5">
+                                            <span class="d-block mb-3 case-study mb-4" >EXPERTISE</span>
+                                            <div class="col-12 col-lg-7 mb-5">
+                                                <h3 class="mb-4">Technical design partner and manager;
+                                                    happy sweating the small details
+                                                    or leading projects and teams
+                                                    </h3>
+                                            </div>
+                                            <hr>
+                                            <div class="col-12 col-sm-12 expertise">
+                                                <div class="row row-10">
+                                                    <div class="col-12 col-lg-3">
+                                                        <h2 class="mb-4 mt-3 mt-lg-1 mb-lg-2">Design</h2>
+                                                    </div>
+                                                    <div class="col-12 col-lg-9">
+                                                        <div class="row">
+                                                            <div class="col-12 col-md-4">
+                                                                <h4 class="mb-2">UX + Research</h4>
+                                                                <p class="small">Make a product or service more compelling by implementing best practices, user research, and usability testing.
+                                                                </p>
+                                                            </div>
+                                                            <div class="col-12 col-md-4">
+                                                                <h4 class="mb-2">UI + Interaction</h4>
+                                                                <p class="small">Polished interaction design for software experiences on any screen size.
+                                                                </p>
+                                                            </div>
+                                                            <div class="col-12 col-md-4">
+                                                                <h4 class="mb-2">Brand + Identity</h4>
+                                                                <p class="small">Graphic design of identity and collateral that move organizations’ brand strategy forward.
+                                                                </p>
+                                                            </div>
+                                                        </div>
+                                                        <div class="row mt-3">
+                                                            <div class="col-12 col-md-4">
+                                                                <h4 class="mb-2">Data Visualization</h4>
+                                                                <p class="small">Custom data visualizations and infographics to tell the story of your data. Possibly interactive, always engaging.</p>
+                                                            </div>
+                                                            <div class="col-12 col-md-4">
+                                                                <h4 class="mb-2">Design Systems</h4>
+                                                                <p class="small">Systematized design tools to enable your team to move faster with greater consistency. Can include front-end code assets.</p>
+                                                            </div>
+                                                            <div class="col-12 col-md-4">
+                                                                
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <hr class="mb-4">
+                                                <div class="row row-10">
+                                                    <div class="col-12 col-lg-3">
+                                                        <h2 class="mb-4 mt-3 mt-lg-1 mb-lg-2">Code</h2>
+                                                    </div>
+                                                    <div class="col-12 col-lg-9">
+                                                        <div class="row">
+                                                            <div class="col-12 col-lg-4">
+                                                                <h4 class="mb-2">Component Systems</h4>
+                                                                <p class="small">Implementing interfaces and component systems for production. (Currently liking TypeScript, React, JSS, Sass.)
+                                                                </p>
+                                                            </div>
+                                                            <div class="col-12 col-lg-4">
+                                                                <h4 class="mb-2">Website + CMS</h4>
+                                                                <p class="small">Extensive experience designing and developing marketing websites, blogs, and microsites. (Sometimes JAMstack, still appreciating WordPress.)
+                                                                </p>
+                                                            </div>
+                                                            <div class="col-12 col-lg-4">
+                                                                
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <hr class="mb-4">
+                                                <div class="row row-10">
+                                                    <div class="col-12 col-lg-3">
+                                                        <h2 class="mb-4 mt-3 mt-lg-1 mb-lg-2">Management</h2>
+                                                    </div>
+                                                    <div class="col-12 col-lg-9">
+                                                        <div class="row">
+                                                            <div class="col-12 col-lg-4">
+                                                                <h4 class="mb-2">Design + Product Orgs</h4>
+                                                                <p class="small">Growing internal design and product teams that make an impact (and engineers love working with).
+                                                                </p>
+                                                            </div>
+                                                            <div class="col-12 col-lg-4">
+                                                                <h4 class="mb-2">Agile</h4>
+                                                                <p class="small">Helping product teams find their organizational stride to ship faster.
+                                                                </p>
+                                                            </div>
+                                                            <div class="col-12 col-lg-4">
+                                                                
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
-                                    <hr>
-                                    <div class="row">
-                                        <div class="col-12 col-md-3">
-                                            <p class="small">Metropolis Creative
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small">Designer & Developer
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center">
-                                                2008-09
-                                            </p>
-                                        </div><div class="col-12 col-md-3">
-                                            <p class="small text-sm-center">
-                                            </p>
+                                    <hr class="hr1" id="consulting">
+                                        <div class="row mb-5 pb-3">
+                                            <div class="col-12 col-lg-12 modus mt-2 mb-5 pb-5">
+                                                <span class="d-block mb-3 case-study mb-4" >CONSULTING</span>
+                                                <div class="col-12 col-lg-7">
+                                                    <h3 class="mb-4">A fresh set of eyes, seamlessly integrated into your team
+                                                    </h3>
+                                                </div>
+                                                <div class="col-12 col-lg-8 mb-5">
+                                                    <p class="h1">
+                                                        ITeams may find me a good fit when they need an experienced contributor who can 
+                                                        hit the ground running, tackle complex technical designs, 
+                                                        help scope open-ended product challenges, and build design teams and culture.</p>
+                                                </div>
+                                                <div class="col-11 col-sm-12">
+                                                    <div class="row row-10 mb-5 pb-2">
+                                                        <div class="col-12 col-sm-6">
+                                                            <hr>
+                                                            <h4 class="mt-4 mb-3">Product Strategy</h4>
+                                                            <p class="small">Helping organizations bring products to market, 
+                                                                or "fail faster" to understand what their market really wants.
+                                                            </p>
+                                                        </div>
+                                                        <div class="col-12 col-sm-6">
+                                                            <hr>
+                                                            <h4 class="mt-4 mb-3">Brand Strategy</h4>
+                                                            <p class="small">Work on a process to hone the authentic 
+                                                                brand that’ll help you reach the right audience..
+                                                            </p>
+                                                        </div> 
+                                                        <div class="col-12 col-sm-6">
+                                                            <hr>
+                                                            <h4 class="mt-4 mb-3">Design Sprints</h4>
+                                                            <p class="small">Guide organizations though intensive design sprints to 
+                                                                explore new product offerings in one week or less.
+                                                            </p>
+                                                        </div>  
+                                                        <div class="col-12 col-sm-6">
+                                                            <hr>
+                                                            <h4 class=" mt-4mb-3">Building Teams</h4>
+                                                            <p class="small">Working with organizations (especially startups) to figure out how to structure 
+                                                                their product and design teams for operational success and scaling.
+                                                            </p>
+                                                        </div>                                     
+                                                    </div>
+                                                    <hr>
+                                                    <div class="row row-10 mt-5">
+                                                        <div class="col-12 col-lg-6">
+                                                            <p class="small">Every project is different—I adapt to your team and situation. 
+                                                                This can mean delivering a specific project from end-to-end, working 
+                                                                on retainer for a specific period, or being embedded on the team 
+                                                                full-time to meet a milestone.
+                                                            </p>
+                                                            <br>
+                                                            <p class="small">Best to start with a chat to explore options.
+                                                            <br>
+                                                            <br>
+                                                            <a class="h5 fw-bold" href=""><span class="h2 fst-normal">&#8595;</span>Get Started</a>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
-                                    </div>                               
+                                    <hr class="hr1" id="contact">
+                                    <div class="row row-10 mb-5">
+                                        <div class="col-12 col-lg-12 modus mb-5 pb-5">
+                                            <span class="d-block mb-3 case-study mt-3 mb-5">CONTACT</span>
+                                            <div class="col-12 col-lg-7 mb-5 contact">
+                                                <h3 class="mb-5">UX & Design Strategy Consulting</h3>
+                                                <p class="small fw-bold mb-3">Not accepting new design or dev projects at the moment, sorry!</p>
+                                                <p class="small mb-2">Working full-time with no time for consulting at the moment.</p>
+                                            </div>
+                                            <div class="row row-10">
+                                                <div class="col-11 col-lg-6 mentoring">
+                                                    <h3 class="mb-3">Mentoring</h3>
+                                                    <p>I currently mentor entrepreneurs and designers through the 
+                                                        <a href="">Venture Mentor Network</a> and <a href="">Scout Design</a> 
+                                                        at Northeastern University. If you’re an NU student or alum, I encourage you to check them out!
+                                                    </p>
+                                                    <br>
+                                                    <p>Unfortunately, the time I have for mentoring is completely booked through those programs. 
+                                                        If you’re looking for mentorship outside of that network, I recommend checking out your alma mater, 
+                                                        or searching for local organizations for specific types of mentoring you seek—there are a ton these days!
+                                                    </p>
+                                                </div>
+                                                <div class="col-11 col-lg-6 mentoring">
+                                                    <h3 class="mb-3">Something else?</h3>
+                                                    <p>I’m happy to chat about non-consulting opportunities like speaking, teaching, and writing engagements. Shoot me an email! 
+                                                        <meta charset="utf-8"><a href="">alex@turnwall.com</a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                  <hr class="hr1" id="expertise">
-                  <div class="row row-10 mb-5 pb-5">
-                      <div class="col-12 col-lg-12 modus mb-5 mt-2 pb-5">
-                          <span class="d-block mb-3 case-study mb-4" >EXPERTISE</span>
-                          <div class="col-12 col-lg-7 mb-5">
-                              <h3 class="mb-4">Technical design partner and manager;
-                                  happy sweating the small details
-                                  or leading projects and teams
-                                  </h3>
-                          </div>
-                          <hr>
-                          <div class="col-12 col-sm-12 expertise">
-                              <div class="row row-10">
-                                  <div class="col-12 col-lg-3">
-                                      <h2 class="mb-4 mt-3 mt-lg-1 mb-lg-2">Design</h2>
-                                  </div>
-                                  <div class="col-12 col-lg-9">
-                                      <div class="row">
-                                          <div class="col-12 col-md-4">
-                                              <h4 class="mb-2">UX + Research</h4>
-                                              <p class="small">Make a product or service more compelling by implementing best practices, user research, and usability testing.
-                                              </p>
-                                          </div>
-                                          <div class="col-12 col-md-4">
-                                              <h4 class="mb-2">UI + Interaction</h4>
-                                              <p class="small">Polished interaction design for software experiences on any screen size.
-                                              </p>
-                                          </div>
-                                          <div class="col-12 col-md-4">
-                                              <h4 class="mb-2">Brand + Identity</h4>
-                                              <p class="small">Graphic design of identity and collateral that move organizations’ brand strategy forward.
-                                              </p>
-                                          </div>
-                                      </div>
-                                      <div class="row mt-3">
-                                          <div class="col-12 col-md-4">
-                                              <h4 class="mb-2">Data Visualization</h4>
-                                              <p class="small">Custom data visualizations and infographics to tell the story of your data. Possibly interactive, always engaging.</p>
-                                          </div>
-                                          <div class="col-12 col-md-4">
-                                              <h4 class="mb-2">Design Systems</h4>
-                                              <p class="small">Systematized design tools to enable your team to move faster with greater consistency. Can include front-end code assets.</p>
-                                          </div>
-                                          <div class="col-12 col-md-4">
-                                              
-                                          </div>
-                                      </div>
-                                  </div>
-                              </div>
-                              <hr class="mb-4">
-                              <div class="row row-10">
-                                  <div class="col-12 col-lg-3">
-                                      <h2 class="mb-4 mt-3 mt-lg-1 mb-lg-2">Code</h2>
-                                  </div>
-                                  <div class="col-12 col-lg-9">
-                                      <div class="row">
-                                          <div class="col-12 col-lg-4">
-                                              <h4 class="mb-2">Component Systems</h4>
-                                              <p class="small">Implementing interfaces and component systems for production. (Currently liking TypeScript, React, JSS, Sass.)
-                                              </p>
-                                          </div>
-                                          <div class="col-12 col-lg-4">
-                                              <h4 class="mb-2">Website + CMS</h4>
-                                              <p class="small">Extensive experience designing and developing marketing websites, blogs, and microsites. (Sometimes JAMstack, still appreciating WordPress.)
-                                              </p>
-                                          </div>
-                                          <div class="col-12 col-lg-4">
-                                              
-                                          </div>
-                                      </div>
-                                  </div>
-                              </div>
-                              <hr class="mb-4">
-                              <div class="row row-10">
-                                  <div class="col-12 col-lg-3">
-                                      <h2 class="mb-4 mt-3 mt-lg-1 mb-lg-2">Management</h2>
-                                  </div>
-                                  <div class="col-12 col-lg-9">
-                                      <div class="row">
-                                          <div class="col-12 col-lg-4">
-                                              <h4 class="mb-2">Design + Product Orgs</h4>
-                                              <p class="small">Growing internal design and product teams that make an impact (and engineers love working with).
-                                              </p>
-                                          </div>
-                                          <div class="col-12 col-lg-4">
-                                              <h4 class="mb-2">Agile</h4>
-                                              <p class="small">Helping product teams find their organizational stride to ship faster.
-                                              </p>
-                                          </div>
-                                          <div class="col-12 col-lg-4">
-                                              
-                                          </div>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <hr class="hr1" id="consulting">
-                    <div class="row mb-5 pb-3">
-                        <div class="col-12 col-lg-12 modus mt-2 mb-5 pb-5">
-                            <span class="d-block mb-3 case-study mb-4" >CONSULTING</span>
-                            <div class="col-12 col-lg-7">
-                                <h3 class="mb-4">A fresh set of eyes, seamlessly integrated into your team
-                                </h3>
-                            </div>
-                            <div class="col-12 col-lg-8 mb-5">
-                                <p class="h1">
-                                    ITeams may find me a good fit when they need an experienced contributor who can 
-                                    hit the ground running, tackle complex technical designs, 
-                                    help scope open-ended product challenges, and build design teams and culture.</p>
-                            </div>
-                            <div class="col-11 col-sm-12">
-                                <div class="row row-10 mb-5 pb-2">
-                                    <div class="col-12 col-sm-6">
-                                        <hr>
-                                        <h4 class="mt-4 mb-3">Product Strategy</h4>
-                                        <p class="small">Helping organizations bring products to market, 
-                                            or "fail faster" to understand what their market really wants.
-                                        </p>
-                                    </div>
-                                    <div class="col-12 col-sm-6">
-                                        <hr>
-                                        <h4 class="mt-4 mb-3">Brand Strategy</h4>
-                                        <p class="small">Work on a process to hone the authentic 
-                                            brand that’ll help you reach the right audience..
-                                        </p>
-                                    </div> 
-                                    <div class="col-12 col-sm-6">
-                                        <hr>
-                                        <h4 class="mt-4 mb-3">Design Sprints</h4>
-                                        <p class="small">Guide organizations though intensive design sprints to 
-                                            explore new product offerings in one week or less.
-                                        </p>
-                                    </div>  
-                                    <div class="col-12 col-sm-6">
-                                        <hr>
-                                        <h4 class=" mt-4mb-3">Building Teams</h4>
-                                        <p class="small">Working with organizations (especially startups) to figure out how to structure 
-                                            their product and design teams for operational success and scaling.
-                                        </p>
-                                    </div>                                     
+                    <footer class="py-4 px-2 px-md-0">
+                        <div class="container py-4">
+                            <div class="row py-4">
+                                <div class="col-12 col-lg-2">
+                                    <p>
+                                        <a href="">Alex Turnwall</a>
+                                    </p>
                                 </div>
-                                <hr>
-                                <div class="row row-10 mt-5">
-                                    <div class="col-12 col-lg-6">
-                                        <p class="small">Every project is different—I adapt to your team and situation. 
-                                            This can mean delivering a specific project from end-to-end, working 
-                                            on retainer for a specific period, or being embedded on the team 
-                                            full-time to meet a milestone.
-                                        </p>
-                                        <br>
-                                        <p class="small">Best to start with a chat to explore options.
-                                        <br>
-                                        <br>
-                                        <a class="h5 fw-bold" href=""><span class="h2 fst-normal">&#8595;</span>Get Started</a>
-                                        </p>
-                                    </div>
+                                <div class="col-11 col-lg-5">
+                                    <p>I'm a Boston-based designer, developer, and strategist. I
+                                        <a href="">consult</a>,
+                                        <a href="https://www.turnwall.com/articles/">write</a>,
+                                        and speak about design, entrepreneurship and technology.
+                                        You might also find me biking, kayaking, skiing, woodworking, or brewing.
+                                    </p>
+                                </div>
+                                <div class="col-md-5">
+                                    <p>Get in touch:</p>
+                                    <p class="small">
+                                        Email <a href="">alex@turnwall.com</a>
+                                        <br>LinkedIn <a href="" target="_blank">/alexturnwall</a>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="row pt-5 pb-4">
+                                <div class="col-md-2"></div>
+                                <div class="col-11 col-lg-10">
+                                    <p class="small text-secondary">
+                                        Design and content © 2008-2023 by Alex Turnwall unless otherwise noted, all rights reserved.
+                                    </p>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                  <hr class="hr1" id="contact">
-                  <div class="row row-10 mb-5">
-                      <div class="col-12 col-lg-12 modus mb-5 pb-5">
-                          <span class="d-block mb-3 case-study mt-3 mb-5">CONTACT</span>
-                          <div class="col-12 col-lg-7 mb-5 contact">
-                              <h3 class="mb-5">UX & Design Strategy Consulting</h3>
-                              <p class="small fw-bold mb-3">Not accepting new design or dev projects at the moment, sorry!</p>
-                              <p class="small mb-2">Working full-time with no time for consulting at the moment.</p>
-                          </div>
-                          <div class="row row-10">
-                              <div class="col-11 col-lg-6 mentoring">
-                                  <h3 class="mb-3">Mentoring</h3>
-                                  <p>I currently mentor entrepreneurs and designers through the 
-                                      <a href="">Venture Mentor Network</a> and <a href="">Scout Design</a> 
-                                      at Northeastern University. If you’re an NU student or alum, I encourage you to check them out!
-                                  </p>
-                                  <br>
-                                  <p>Unfortunately, the time I have for mentoring is completely booked through those programs. 
-                                      If you’re looking for mentorship outside of that network, I recommend checking out your alma mater, 
-                                      or searching for local organizations for specific types of mentoring you seek—there are a ton these days!
-                                  </p>
-                              </div>
-                              <div class="col-11 col-lg-6 mentoring">
-                                  <h3 class="mb-3">Something else?</h3>
-                                  <p>I’m happy to chat about non-consulting opportunities like speaking, teaching, and writing engagements. Shoot me an email! 
-                                      <meta charset="utf-8"><a href="">alex@turnwall.com</a>
-                                  </p>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </div>
-  </div>
-  <footer class="py-4 px-2 px-md-0">
-      <div class="container py-4">
-          <div class="row py-4">
-              <div class="col-12 col-lg-2">
-                  <p>
-                      <a href="">Alex Turnwall</a>
-                  </p>
-              </div>
-              <div class="col-11 col-lg-5">
-                  <p>I'm a Boston-based designer, developer, and strategist. I
-                      <a href="">consult</a>,
-                      <a href="https://www.turnwall.com/articles/">write</a>,
-                      and speak about design, entrepreneurship and technology.
-                      You might also find me biking, kayaking, skiing, woodworking, or brewing.
-                  </p>
-              </div>
-              <div class="col-md-5">
-                  <p>Get in touch:</p>
-                  <p class="small">
-                      Email <a href="">alex@turnwall.com</a>
-                      <br>LinkedIn <a href="" target="_blank">/alexturnwall</a>
-                  </p>
-              </div>
-          </div>
-          <div class="row pt-5 pb-4">
-              <div class="col-md-2"></div>
-              <div class="col-11 col-lg-10">
-                  <p class="small text-secondary">
-                      Design and content © 2008-2023 by Alex Turnwall unless otherwise noted, all rights reserved.
-                  </p>
-              </div>
-          </div>
-      </div>
                     </footer>`
     };
     callback(pages[fragmentId]);
 }
 
 function loadContent() {
-    var contentDiv = document.getElementById("app"),
+    var contentDiv = document.getElementById("app"),        
         fragmentId = location.hash.substring(1);
 
     getContent(fragmentId, function (content) {
         contentDiv.innerHTML = content;
+        (window.onbeforeunload = function () {
+            window.scrollTo(0, 0);
+          })()
     });
 
 }
@@ -1287,3 +1290,4 @@ if (!location.hash) {
 loadContent();
 
 window.addEventListener("hashchange", loadContent)
+
