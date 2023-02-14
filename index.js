@@ -53,19 +53,27 @@ let aboutTitle = () =>{
     document.getElementById("navb").style.borderBottom = "";
     document.getElementById("nava").style.borderBottom = "";
 }
-let moveToabout = () => {
+function moveToabout(){
     const element = document.getElementById("about");
     element.scrollIntoView();
 }
-let moveTomodus = () =>{
+function moveTomodus(){
     const element = document.getElementById("modus-operandi");
     element.scrollIntoView();
 }
-let moveToexpertise = () =>{
+function moveToexperience(){
+    const element = document.getElementById("experience");
+    element.scrollIntoView();
+}
+function moveToexpertise(){
     const element = document.getElementById("expertise");
     element.scrollIntoView();
 }
-let moveTocontact =() =>{
+function moveToconsulting(){
+    const element = document.getElementById("consulting");
+    element.scrollIntoView();
+}
+function moveTocontact(){
     const element = document.getElementById("contact");
     element.scrollIntoView();
 }

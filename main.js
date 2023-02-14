@@ -707,12 +707,18 @@ function getContent(fragmentId, callback) {
               <div class="col-11 col-sm-3 col-lg-2 d-none d-lg-block">
                   <p class="sticky p-lg-0 m-lg-0 sidebar_scroll">
                   <a  onclick="moveToabout()">About</a>
+                  <br>_
                   <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
                   <a  onclick="moveTomodus()">MODUS OPERANDI</a>
                   <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
+                  <a  onclick="moveToexperience()">EXPERIENCE</a>
+                  <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
                   <a  onclick="moveToexpertise()">EXPERTISE</a>
                   <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
+                  <a onclick="moveToconsulting()">CONSULTING</a>
+                  <span class="hidden-xs hidden-sm d-none d-lg-flex"></span>
                   <a onclick="moveTocontact()">CONTACT</a>
+              </p>
                   </p>
               </div>
               <div class="col-12 col-sm-10 col-md-11 col-lg-10">
@@ -853,6 +859,182 @@ function getContent(fragmentId, callback) {
                           </div>
                       </div>
                   </div>
+                  <hr class="hr1" id="experience">
+                    <div class="row mb-5 pb-5">
+                        <div class="col-12 col-lg-12 modus mt-2 mb-5 pb-5">
+                            <span class="d-block mb-3 case-study mb-4" >EXPERIENCE</span>
+                            <div class="col-12 col-lg-7 mb-5 pb-1">
+                                <h3 class="mb-4">For over a decade, I’ve …<br>
+                                    helped launch and scale businesses,
+                                    worked at a studio (and started one),
+                                    taught at a university’s design school, and
+                                    consulted with organizations of all sorts.</h3>
+                            </div>
+                            <div class="row row-10 mb-5 pb-3">
+                                <div class="col-12 col-sm-4 modus-advise">
+                                    <h4 class="mb-2">I design and code.</h4>
+                                    <p class="small">I've spent years driving design and technical projects from start to finish on a variety of very 
+                                        different teams. I've managed and contributed to projects for startups, universities,
+                                         large international corporations, medical and research institutions, and government agencies.
+                                    </p>
+                                </div>
+                                <div class="col-12 col-sm-4 modus-advise">
+                                    <h4 class="mb-2">I teach.</h4>
+                                    <p class="small">I’ve taught at Northeastern’s design program, now I volunteer to help young designers and 
+                                        entrepreneurs learn through design and technology. I've spend a good deal of time thinking about design in the classroom. 
+                                        This strengthens my practice just as much as client work impacts my teaching.
+                                </div>
+                                <div class="col-12 col-sm-4 modus-advise">
+                                    <h4 class="mb-2">I’m an entrepreneur.</h4>
+                                    <p class="small">I've been involved in entrepreneurship for over a decade: having helped start a venture accelerator, 
+                                        co-founded a design studio, been on founding teams, helped startups scale 
+                                        through multiple rounds of VC funding, and now consult with and mentor entrepreneurs.
+                                    </p>    
+                                </div>
+                            </div>
+                            <div class="col-12 col-sm-12 ">
+                                <div class="row">
+                                    <div class="col-12 px-0">
+                                        <h4 class="mb-5">Select Positions</h4>
+                                    </div>
+                                    <hr>
+                                    <div class="row">
+                                        <div class="col-12 col-md-3">
+                                            <p class="small">verilly
+                                            </p>
+                                        </div>
+                                        <div class="col-12 col-md-3">
+                                            <p class="small">Staff UX Designer
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center">2021-
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center">
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <hr>
+                                    <div class="row">
+                                        <div class="col-12 col-md-3">
+                                            <p class="small">Connected Proof
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small">Co-founder/Product & Design
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center">2019-2021
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center">
+                                                <a href="">Case Study</a>
+                                            </p>
+                                        </div>
+                                    </div> 
+                                    <hr>
+                                    <div class="row">
+                                        <div class="col-12 col-md-3">
+                                            <p class="small">AdmitHub
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small">Head Of Design
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center">2018-2020
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center">
+                                                <a href="">Case Study</a>
+                                            </p>
+                                        </div>
+                                    </div> 
+                                    <hr>
+                                    <div class="row">
+                                        <div class="col-12 col-md-3">
+                                            <p class="small">lovepop
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small">Consultant
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center">2018-2019
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center">
+                                                <a href="">Case Study</a>
+                                            </p>
+                                        </div>
+                                    </div> 
+                                    <hr>
+                                    <div class="row">
+                                        <div class="col-12 col-md-3">
+                                            <p class="small">BevSpot
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small">Cheif Design Officer
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center">2014-2018
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center"><a href=""> Case Study <br> Snapshot</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <hr>
+                                    <div class="row">
+                                        <div class="col-12 col-md-3">
+                                            <p class="small">Northeastern University
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small">Lecturer @College of Arts, Media + Design;
+                                                Founding Faculty Advisor @Scout Studio
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center">2011-14
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center"><a href=""> Case Study</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <hr>
+                                    <div class="row">
+                                        <div class="col-12 col-md-3">
+                                            <p class="small">Hifinit Design Studio
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small">Co-Founder & Principal
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center">2010-13
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center">
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <hr>
+                                    <div class="row">
+                                        <div class="col-12 col-md-3">
+                                            <p class="small">Metropolis Creative
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small">Designer & Developer
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center">
+                                                2008-09
+                                            </p>
+                                        </div><div class="col-12 col-md-3">
+                                            <p class="small text-sm-center">
+                                            </p>
+                                        </div>
+                                    </div>                               
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                   <hr class="hr1" id="expertise">
                   <div class="row row-10 mb-5 pb-5">
                       <div class="col-12 col-lg-12 modus mb-5 mt-2 pb-5">
@@ -951,6 +1133,70 @@ function getContent(fragmentId, callback) {
                           </div>
                       </div>
                   </div>
+                  <hr class="hr1" id="consulting">
+                    <div class="row mb-5 pb-3">
+                        <div class="col-12 col-lg-12 modus mt-2 mb-5 pb-5">
+                            <span class="d-block mb-3 case-study mb-4" >CONSULTING</span>
+                            <div class="col-12 col-lg-7">
+                                <h3 class="mb-4">A fresh set of eyes, seamlessly integrated into your team
+                                </h3>
+                            </div>
+                            <div class="col-12 col-lg-8 mb-5">
+                                <p class="h1">
+                                    ITeams may find me a good fit when they need an experienced contributor who can 
+                                    hit the ground running, tackle complex technical designs, 
+                                    help scope open-ended product challenges, and build design teams and culture.</p>
+                            </div>
+                            <div class="col-11 col-sm-12">
+                                <div class="row row-10 mb-5 pb-2">
+                                    <div class="col-12 col-sm-6">
+                                        <hr>
+                                        <h4 class="mt-4 mb-3">Product Strategy</h4>
+                                        <p class="small">Helping organizations bring products to market, 
+                                            or "fail faster" to understand what their market really wants.
+                                        </p>
+                                    </div>
+                                    <div class="col-12 col-sm-6">
+                                        <hr>
+                                        <h4 class="mt-4 mb-3">Brand Strategy</h4>
+                                        <p class="small">Work on a process to hone the authentic 
+                                            brand that’ll help you reach the right audience..
+                                        </p>
+                                    </div> 
+                                    <div class="col-12 col-sm-6">
+                                        <hr>
+                                        <h4 class="mt-4 mb-3">Design Sprints</h4>
+                                        <p class="small">Guide organizations though intensive design sprints to 
+                                            explore new product offerings in one week or less.
+                                        </p>
+                                    </div>  
+                                    <div class="col-12 col-sm-6">
+                                        <hr>
+                                        <h4 class=" mt-4mb-3">Building Teams</h4>
+                                        <p class="small">Working with organizations (especially startups) to figure out how to structure 
+                                            their product and design teams for operational success and scaling.
+                                        </p>
+                                    </div>                                     
+                                </div>
+                                <hr>
+                                <div class="row row-10 mt-5">
+                                    <div class="col-12 col-lg-6">
+                                        <p class="small">Every project is different—I adapt to your team and situation. 
+                                            This can mean delivering a specific project from end-to-end, working 
+                                            on retainer for a specific period, or being embedded on the team 
+                                            full-time to meet a milestone.
+                                        </p>
+                                        <br>
+                                        <p class="small">Best to start with a chat to explore options.
+                                        <br>
+                                        <br>
+                                        <a class="h5 fw-bold" href=""><span class="h2 fst-normal">&#8595;</span>Get Started</a>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                   <hr class="hr1" id="contact">
                   <div class="row row-10 mb-5">
                       <div class="col-12 col-lg-12 modus mb-5 pb-5">
