@@ -32,6 +32,9 @@ window.addEventListener("scroll", () => {
 // changing the title onclicking every other page 
 function homeTitle(){
     document.querySelector("title").textContent = "Alex Turnwall>>Designer & Developer";
+    document.getElementById("nava").style.borderBottom = "";
+    document.getElementById("navb").style.borderBottom = "";
+    document.getElementById("navc").style.borderBottom = "";
 
     // document.getElementsByTagName("title").textContent = "Alex Turnwall>>Designer & Developer";
     
